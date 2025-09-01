@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.0316af8c.css",
-    "main.js": "/static/js/main.afbdd46d.js",
-    "index.html": "/index.html",
-    "main.0316af8c.css.map": "/static/css/main.0316af8c.css.map",
-    "main.afbdd46d.js.map": "/static/js/main.afbdd46d.js.map"
+    "main.css": "/performance_tracker/static/css/main.0316af8c.css",
+    "main.js": "/performance_tracker/static/js/main.afbdd46d.js",
+    "index.html": "/performance_tracker/index.html",
+    "main.0316af8c.css.map": "/performance_tracker/static/css/main.0316af8c.css.map",
+    "main.afbdd46d.js.map": "/performance_tracker/static/js/main.afbdd46d.js.map"
   },
   "entrypoints": [
     "static/css/main.0316af8c.css",
